@@ -1,1 +1,11 @@
 Hello world!!!
+
+Разные способы сделать git add
+
+git add <список файлов>
+git add . - добавить все файлы в текущей папке
+git add *.js - все файлы в текущей папке с расширением js
+git add someDir/*.js - все файлы в папке someDir с расширением js
+git add someDir/ - все файлы в папке someDir
+
+
