@@ -78,3 +78,8 @@ git merge origin/master
 git remote show origin - инфа о ветках
 
 git push --delete origin add-feature1 - удалить удаленную ветку
+
+________________________________________________________________
+git rebase
+
+альтернатива git merge, но не создает коммиты слияния
